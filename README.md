@@ -38,7 +38,7 @@ Garment-Offer-System/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Garment-Offer-System.git
+git clone https://github.com/aditya10-coder/Garment-Offer-System.git
 ```
 
 2. Open the project folder
